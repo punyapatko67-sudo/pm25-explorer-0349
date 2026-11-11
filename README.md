@@ -4,7 +4,7 @@
 
 ## วิธีติดตั้ง
 conda env create -f environment.yml หรือ
-uv sync
+uv sync .
 
 ## ผู้จัดทำ
 นายปุณยพัฒน์ โกทัน 67114540349
